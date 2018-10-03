@@ -11,4 +11,4 @@ Kindly note the links here lead the main repositories where this work .
 
 # 2. [Python Data Analysis](https://github.com/GeorgeOduor/Python_Statistical_Analysis)
 
-# 3. [Short R tutolials](https://github.com/GeorgeOduor/renaming_variables_in_r)
+# 3. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
