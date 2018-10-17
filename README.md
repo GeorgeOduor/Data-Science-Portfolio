@@ -1,4 +1,7 @@
 # Data-Science-Portfolio
+
+Welcome to my statistics corner!
+
 This repository contains links to my data science projects done in **R and PYTHON**.It has short tutorials on statistical techniques in R,my personal projects in R and datahack competition projects.
 
 The projects featured here are done out of my love for statistical thinking and curosity.
