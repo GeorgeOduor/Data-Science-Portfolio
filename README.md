@@ -5,7 +5,7 @@ The projects featured here are done out of my love for statistical thinking and 
 
 In case you get interested with my work or find a bug,you can email me at george.wamaya@gmail.com.
 
-Kindly note the links here lead the main repositories where this work .
+Kindly note the links here lead the main repositories where this work is.
 
 # 1. [R Data Analysis Projects](https://github.com/GeorgeOduor/R-ANALYSIS)
 
