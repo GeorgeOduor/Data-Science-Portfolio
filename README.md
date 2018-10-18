@@ -10,7 +10,7 @@ In case you get interested with my work or find a bug,you can email me at george
 
 Kindly note the links here lead the main repositories where this work is.
 
-#**Contents**
+# **Contents**
 
 ## 1. [R Data Analysis Projects](https://github.com/GeorgeOduor/R-ANALYSIS)
 
