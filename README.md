@@ -10,8 +10,10 @@ In case you get interested with my work or find a bug,you can email me at george
 
 Kindly note the links here lead the main repositories where this work is.
 
-# 1. [R Data Analysis Projects](https://github.com/GeorgeOduor/R-ANALYSIS)
+#**Contents**
 
-# 2. [Python Data Analysis Projects](https://github.com/GeorgeOduor/Python_Statistical_Analysis)
+## 1. [R Data Analysis Projects](https://github.com/GeorgeOduor/R-ANALYSIS)
 
-# 3. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
+## 2. [Python Data Analysis Projects](https://github.com/GeorgeOduor/Python_Statistical_Analysis)
+
+## 3. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
