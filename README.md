@@ -1,14 +1,14 @@
 # Data-Science-Portfolio
 
-Welcome to my statistics corner!
+Welcome to my statistics corner.
 
-This repository contains links to my data science projects done in **R and PYTHON**.It has short micro projrcts on statistical techniques in R,my personal Machine Learning projects in R and python and datahack competition projects.
+This repository contains links to my data science projects done in **R and PYTHON**.It has short micro projects on statistical techniques in R,my personal Machine Learning projects in R and python and datahack competition projects.
 
 The projects featured here are done out of my love for statistical thinking and curosity.
 
 In case you get interested with my work or find a bug,you can email me at george.wamaya@gmail.com.
 
-Some of my projrcts are still in progress.
+Some of my projects are still in progress.
 
 # **Contents**
 
