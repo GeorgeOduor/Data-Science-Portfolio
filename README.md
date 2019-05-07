@@ -1,6 +1,5 @@
 # Data-Science-Portfolio
 
-____
 
 Welcome to my statistics corner.
 
