@@ -17,4 +17,6 @@ Some of my projects are still in progress.
 
 ## 2. [Python Data Analysis Projects](https://github.com/GeorgeOduor/Python_Statistical_Analysis)
 
-## 3. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
+## 3. [STATA Data Analysis Projects]()
+
+## 4. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
