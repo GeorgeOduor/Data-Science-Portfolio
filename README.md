@@ -19,4 +19,6 @@ Some of my projects are still in progress.
 
 ## 3. [STATA Data Analysis Projects](https://github.com/GeorgeOduor/STATA-projects/blob/master/README.md)
 
-## 4. [Short R tutorials](https://github.com/GeorgeOduor/renaming_variables_in_r)
+## 4. [Short R and Python Materials](https://github.com/GeorgeOduor/renaming_variables_in_r)
+
+##        4.1 [Classification models](https://github.com/GeorgeOduor/Data-Science-Portfolio/blob/master/classification%20models.ipynb)
