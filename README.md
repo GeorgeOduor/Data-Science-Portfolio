@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 
 
-Welcome to my statistics corner.
+Welcome to my statistics corner where i get my hands dirty.
 
 This repository contains links to my data science projects done in **R , Python & Stata**.It has short micro projects on statistical techniques in R,my personal Machine Learning projects in R , python, STATA and datahack competition projects.
 
