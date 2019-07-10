@@ -19,4 +19,4 @@ Some of my projects are still in progress.
 
 ## 3. [STATA Data Analysis Projects](https://github.com/GeorgeOduor/STATA-projects/blob/master/README.md)
 
-## 4. [VISUALIZATION DASHBOARS](https://github.com/GeorgeOduor/renaming_variables_in_r)
+## 4. [VISUALIZATION DASHBOARS](https://github.com/GeorgeOduor/VISUALIZATION-DASHBOARS)
